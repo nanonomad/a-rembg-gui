@@ -1,3 +1,3 @@
-from .logging_utils import Logger
-from .system_utils import *
-from .file_utils import *
+__version__ = "0.0.1"
+__author__ = "nanonomad"
+__description__ = "GUI frontend for RemBG background removal"
